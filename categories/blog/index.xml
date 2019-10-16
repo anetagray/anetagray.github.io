@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Aneta Gray</title>
+    <link>https://anetagray.github.io/categories/blog/</link>
+    <description>Recent content in blog on Aneta Gray</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Oct 2019 18:58:57 +0100</lastBuildDate>
+    
+	<atom:link href="https://anetagray.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aneta Gray website launch</title>
+      <link>https://anetagray.github.io/blog/aneta-gray-website-launch/</link>
+      <pubDate>Wed, 16 Oct 2019 18:58:57 +0100</pubDate>
+      
+      <guid>https://anetagray.github.io/blog/aneta-gray-website-launch/</guid>
+      <description> Hooray, my site is finally launched! Hope, you will like my photos &amp;hellip;
+ Modeling portfolio and sure expect more. Art portfolio let me know what you think.  </description>
+    </item>
+    
+  </channel>
+</rss>
